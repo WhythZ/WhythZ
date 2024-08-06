@@ -1,4 +1,4 @@
-## Good Day! This is Wythe Zong👋
+## Good Day!👋
 
 ### About Me
 - 🌱I'm an undergraduate in data science and big data technology
