@@ -7,7 +7,7 @@
 ### Skill & Platform
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,md,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,md,latex" />
 </p>
 </div>
 <div align=center>
