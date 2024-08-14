@@ -7,12 +7,12 @@
 ### Skill & Platform
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,md,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,md,latex,godot,unity" />
 </p>
 </div>
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,godot,unity,vscode,visualstudio,anaconda,obsidian" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vscode,visualstudio,anaconda,obsidian" />
 </p>
 </div>
 
