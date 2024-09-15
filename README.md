@@ -2,7 +2,7 @@
 
 ### About Me
 - 🌱I'm an undergraduate in data science and big data technology
-- 🔭I’m interested in game development, drl and computer graphics
+- 🔭I’m interested in game dev, deep reinforcement learning and computer graphics
 
 ### Skill & Platform
 <div align=center>
