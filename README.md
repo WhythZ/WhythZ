@@ -1,18 +1,16 @@
-## Good Day!👋
+### About
+- 🌱I'm currently an undergraduate in data science
+- 🔭I’m interested in game dev and reinforcement learning
 
-### About Me
-- 🌱I'm an undergraduate in data science
-- 🔭I’m interested in game dev and deep reinforcement learning
-
-### Skill & Platform
+### Tools
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py,md,latex,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,lua,md,latex" />
 </p>
 </div>
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,vscode,visualstudio,anaconda,obsidian" />
+    <img src="https://skillicons.dev/icons?i=unity,godot,git,obsidian,vscode,visualstudio,anaconda" />
 </p>
 </div>
 
