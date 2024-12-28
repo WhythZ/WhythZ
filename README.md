@@ -5,12 +5,12 @@
 ### Tools
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,md,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,md,latex,git" />
 </p>
 </div>
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,git,obsidian,vscode,visualstudio,anaconda" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,obsidian,vscode,visualstudio,anaconda" />
 </p>
 </div>
 
