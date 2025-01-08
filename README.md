@@ -2,12 +2,6 @@
 - 🌱I'm currently an undergraduate in data science
 - 🔭I’m interested in game dev and reinforcement learning
 
-<div align=center>
-<p align="center">
-    <a href="https://www.exophase.com/user/WhythZ/"><img src="https://card.exophase.com/2/0/282708.png?1736350807"></a>
-</p>
-</div>
-
 ### Tools
 <div align=center>
 <p align="center">
