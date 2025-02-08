@@ -1,6 +1,5 @@
 ### About
-- 🌱I'm currently an undergraduate in data science
-- 🔭I’m interested in game dev and reinforcement learning
+- I'm currently an undergraduate in data science
 
 ### Tools
 <div align=center>
