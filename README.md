@@ -1,7 +1,6 @@
-### About
+- I'm interested in the engineering of game dev
 - I'm currently an undergraduate in data science
 
-### Tools
 <div align=center>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,md,latex,git" />
