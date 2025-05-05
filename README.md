@@ -1,15 +1,16 @@
-- I'm interested in the engineering of game dev
-- I'm currently an undergraduate in data science
+- Interested in the engineering of game developement
+- Currently a second year student in data science
+- Looking for a game client developer internship
 
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,md,latex,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,lua,md,latex,git" />
 </p>
 </div>
 
 <div align=center>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,godot,obsidian,vscode,visualstudio,anaconda" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,obsidian,vscode,visualstudio,anaconda" />
 </p>
 </div>
 
