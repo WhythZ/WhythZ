@@ -1,6 +1,6 @@
 - Interested in the engineering of game developement
-- Currently a second year student in data science
-- Looking for a game client developer internship
+- Currently a second year undergraduate in data science
+- Looking for an internship of game client developer
 
 <div align=center>
 <p align="center">
