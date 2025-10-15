@@ -1,5 +1,5 @@
 - Interested in the engineering of game developement
-- Currently a second year undergraduate in data science
+- Currently a third year undergraduate in data science
 
 <div align=center>
 <p align="center">
